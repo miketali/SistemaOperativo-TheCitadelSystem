@@ -1,0 +1,11 @@
+MaesterE
+test_global/E
+2
+172.16.214.18
+8005
+--- ROUTES ---
+MaesterA *.*.*.* 0
+MaesterB *.*.*.* 0
+MaesterC *.*.*.* 0
+MaesterD 172.16.214.18 8004
+DEFAULT 172.16.214.18 8004
